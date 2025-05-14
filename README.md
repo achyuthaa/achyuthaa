@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Achyuthanwesh Vanga
 
 I’m a software engineer who loves learning, building, and solving real-world problems.  
-Whether it’s optimizing legacy systems or crafting cloud-native applications or exploring the frontiers of AI — I do it because I love it.
+Whether it’s optimizing legacy systems, crafting cloud-native applications or exploring the frontiers of AI — I do it because I love it.
 
 > 💡 “Passion beats everything — when you love what you do, every challenge becomes a joy.”
 
